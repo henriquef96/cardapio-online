@@ -1,7 +1,5 @@
-# Cardápio Online
+# Cardápio Online 🍔
 
-Projeto desenvolvido para facilitar os clientes na hora de escolher os itens do cardápio, com uma interface bem intuitiva.
-
-Técnologias útilizadas:
-
-• React Js | • TypeScript | • Tailwind |
+Projeto desenvolvido para facilitar os clientes na hora de escolher os itens do cardápio, com uma interface bem intuitiva.<br/><br/>
+**Tecnologias útilizadas:** <br/><br/>
+• React Js • TypeScript • Tailwind <br/><br/>
